@@ -4,3 +4,5 @@ This project was done in Jupyter Notebook for Python and was part of a team proj
 
 
 This was my part of the project, which involved doing some basic data cleaning and the creation of a decision tree to help classify the importance of attributes
+
+The data set was initially pulled from Kaggle
